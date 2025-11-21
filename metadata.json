@@ -1,0 +1,5 @@
+{
+  "name": "TikBulk AI Manager",
+  "description": "A bulk link processor for TikTok videos. Uses Gemini AI to extract URLs from messy text, generate clean filenames, and manage the download queue workflow.",
+  "requestFramePermissions": []
+}
